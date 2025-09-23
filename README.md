@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I like food and AI Systems 😋
+I'm also the Owner of **OrionImage** an AI Image Generation Tool for Discord Server.
