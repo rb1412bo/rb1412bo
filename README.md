@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-I'm the Owner of **OrionImage** an AI Image Generation Tool for Discord Servers.
+Are you an NPC?
 
 ⚡ Fun fact: I like food😋
