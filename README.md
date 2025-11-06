@@ -38,3 +38,10 @@ Currently messing around with data, AI, automation … and snacks.
 ---
 
 May your code run without bugs and your pizza always be hot 🍕
+
+
+
+## 🐍 My GitHub Snake
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/rb1412bo/rb1412bo/output/snake.svg)
+
